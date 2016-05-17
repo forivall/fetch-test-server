@@ -1,6 +1,6 @@
 {
   "name": "@forivall/fetch-test-server",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Test node.js HTTP servers using the fetch API",
   "main": "index.js",
   "scripts": {
