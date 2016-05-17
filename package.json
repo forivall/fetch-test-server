@@ -1,5 +1,5 @@
 {
-  "name": "fetch-test-server",
+  "name": "@forivall/fetch-test-server",
   "version": "1.1.0",
   "description": "Test node.js HTTP servers using the fetch API",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amacneil/fetch-test-server.git"
+    "url": "git+https://github.com/forivall/fetch-test-server.git"
   },
   "author": "Adrian Macneil adrian@adrianmacneil.com",
   "license": "MIT",
